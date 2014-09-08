@@ -1,0 +1,19 @@
+{
+  "name": "MiTsuru",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-compass": "latest",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-coffee":"latest",
+    "matchdep": "latest",
+    "grunt-newer": "latest",
+    "connect-livereload": "latest"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
